@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module defines a function to retrieve an object's attributes and methods.
+    This module defines a function to retrieve an object's attributes and methods.
 """
 
 def lookup(obj):
