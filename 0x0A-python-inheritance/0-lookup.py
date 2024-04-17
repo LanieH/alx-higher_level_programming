@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
     This module returns an object's available properties and methods.
-
 """
 
 def lookup(obj):
